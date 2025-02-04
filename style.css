@@ -54,6 +54,10 @@ body{
     background-color: #302c2d;
 }
 
+.btn-dark:hover{
+    background-color: chocolate;
+}
+
 /* HEADER */
 
 .bg-header{
